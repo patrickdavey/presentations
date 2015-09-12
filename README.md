@@ -1,4 +1,4 @@
-Christchurch Ruby Crucial Conversations
+Raspberry and Sonic Pi
 =========================
 
-Notes for the Christchurch Ruby Crucial Conversations lightning talk
+Notes for the Christchurch Ruby talk
